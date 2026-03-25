@@ -9,7 +9,7 @@ The application also includes an analytics dashboard to visualize student perfor
 ---
 # Live Demo
 
-https://student-performance-prediction-22fsp6ypmbcfcwxbqdmo6.streamlit.app
+[https://student-performance-prediction-22fsp6ypmbcfcwxbqdmo6.streamlit.app](https://student-academic-performance-predict.streamlit.app/)
 
 ---
 
