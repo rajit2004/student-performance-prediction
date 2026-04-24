@@ -17,25 +17,25 @@
 > Login: `admin` / `admin123` (admin) or `staff` / `staff123` (staff)
 
 ---
-
 ## 📸 Screenshots
 
-<table>
-  <tr>
-    <td><strong>Prediction Form</strong><br/><img src="screenshots/Screenshot_2026-04-24_174528.png" width="350"/></td>
-    <td><strong>Analytics Dashboard</strong><br/><img src="screenshots/Screenshot_2026-04-24_174545.png" width="350"/></td>
-  </tr>
-  <tr>
-    <td><strong>Performance Distribution</strong><br/><img src="screenshots/Screenshot_2026-04-24_174712.png" width="350"/></td>
-    <td><strong>Performance Heatmap</strong><br/><img src="screenshots/Screenshot_2026-04-24_174807.png" width="350"/></td>
-  </tr>
-  <tr>
-    <td><strong>Student Records Table</strong><br/><img src="screenshots/Screenshot_2026-04-24_174938.png" width="350"/></td>
-    <td><strong>Student Search</strong><br/><img src="screenshots/Screenshot_2026-04-24_175016.png" width="350"/></td>
-  </tr>
-</table>
+### 🔹 Prediction Form
+![Prediction](screenshots/Screenshot_2026-04-24_174528.png)
 
----
+### 🔹 Analytics Dashboard
+![Dashboard](screenshots/Screenshot_2026-04-24_174545.png)
+
+### 🔹 Performance Distribution
+![Distribution](screenshots/Screenshot_2026-04-24_174712.png)
+
+### 🔹 Performance Heatmap
+![Heatmap](screenshots/Screenshot_2026-04-24_174807.png)
+
+### 🔹 Student Records Table
+![Table](screenshots/Screenshot_2026-04-24_174938.png)
+
+### 🔹 Student Search
+![Search](screenshots/Screenshot_2026-04-24_175016.png)
 
 ## ✨ Features
 
