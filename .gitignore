@@ -1,3 +1,5 @@
-echo .idea/ >> .gitignore
-echo __pycache__/ >> .gitignore
-echo *.pyc >> .gitignore
+.idea/
+__pycache__/
+*.pyc
+.env
+.DS_Store
